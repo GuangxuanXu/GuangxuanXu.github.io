@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use. But now it is mine lmao. And now it is the second update.
+Thanks for Jon Barron's great [website template](https://jonbarron.info/). Feel free to clone this code for your own personal use.
